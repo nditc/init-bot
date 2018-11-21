@@ -27,7 +27,7 @@ def show1(schedule):
 schedulepath = 'schedule.json'
 eventspath = 'events.json'
 
-f = Figlet(font='slant')
+f = Figlet(font='ogre')
 
 @click.group()
 def cli():
