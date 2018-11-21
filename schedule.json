@@ -1,0 +1,111 @@
+[{
+    "time": "9 AM - 10 AM",
+    "event": 1,
+    "day": 0
+  },
+  {
+    "time": "10 AM - 6 PM",
+    "event": 2,
+    "day": 0
+  },
+  {
+    "time": "10 AM - 6 PM",
+    "event": 3,
+    "day": 0
+  },
+  {
+    "time": "10 AM - 6 PM",
+    "event": 4,
+    "day": 0
+  },
+  {
+    "time": "10 AM - 1 PM",
+    "event": 5,
+    "day": 0
+  },
+  {
+    "time": "3 PM - 5.30 PM",
+    "event": 6,
+    "day": 0
+  },
+  {
+    "time": "3 PM - 5.30 PM",
+    "event": 7,
+    "day": 0
+  },
+  {
+    "time": "3 PM - 5.30 PM",
+    "event": 8,
+    "day": 0
+  },
+  {
+    "time": "8 AM - 8.30 AM",
+    "event": 0,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 4 PM",
+    "event": 2,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 4 PM",
+    "event": 3,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 4 PM",
+    "event": 4,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 4 PM",
+    "event": 9,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 4 PM",
+    "event": 10,
+    "day": 1
+  },
+  {
+    "time": "9 AM - 12 PM",
+    "event": 11,
+    "day": 1
+  },
+  {
+    "time": "10 AM - 11 AM",
+    "event": 120,
+    "day": 1
+  },
+  {
+    "time": "12 AM - 12.30 PM",
+    "event": 13,
+    "day": 1
+  },
+  {
+    "time": "12.30 PM - 2 PM",
+    "event": 14,
+    "day": 1
+  },
+  {
+    "time": "2 PM - 4 PM",
+    "event": 15,
+    "day": 1
+  },
+  {
+    "time": "2 PM - 4 PM",
+    "event": 121,
+    "day": 1
+  },
+  {
+    "time": "2 PM - 4 PM",
+    "event": 11,
+    "day": 1
+  },
+  {
+    "time": "4 PM - 6 PM",
+    "event": 16,
+    "day": 1
+  }
+]

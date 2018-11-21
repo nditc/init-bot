@@ -1,0 +1,91 @@
+[{
+    "event": 0,
+    "name": "Reporting",
+    "desc": "reporting desc"
+  },
+  {
+    "event": 1,
+    "name": "Opening Ceremony",
+    "desc": "op ceremony desc"
+  },
+  {
+    "event": 2,
+    "name": "Wall Magazine Display",
+    "desc": "wm desc"
+  },
+  {
+    "event": 3,
+    "name": "Project Display",
+    "desc": "project desc"
+  },
+  {
+    "event": 4,
+    "name": "Robot Showcasing",
+    "desc": "robo shocasing desc"
+  },
+  {
+    "event": 5,
+    "name": "Programming Contest",
+    "desc": "programming desc"
+  },
+  {
+    "event": 6,
+    "name": "Webpage Designing",
+    "desc": "wp desc"
+  },
+  {
+    "event": 7,
+    "name": "Digital Poster Design Showcase",
+    "desc": "dig post desc"
+  },
+  {
+    "event": 8,
+    "name": "Olympiads",
+    "desc": "oly desc"
+  },
+  {
+    "event": 9,
+    "name": "Ideacon",
+    "desc": "ideacon desc"
+  },
+  {
+    "event": 10,
+    "name": "Hackathon",
+    "desc": "hacka desc"
+  },
+  {
+    "event": 11,
+    "name": "Line Follower Robot Competition",
+    "desc": "lfr desc, shanta doesn't like lfrs"
+  },
+  {
+    "event": 120,
+    "name": "Code Debugging Preliminary",
+    "desc": "cbp desc"
+  },
+  {
+    "event": 121,
+    "name": "Code Debugging Final",
+    "desc": "cbf desc"
+  },
+  {
+    "event": 13,
+    "name": "Workshop by GIGABYTE: HOW TO BUILD A PC",
+    "desc": "gig desc"
+  },
+  {
+    "event": 14,
+    "name": "Lunch Break",
+    "desc": "lunch desc"
+  },
+  {
+    "event": 15,
+    "name": "IT Based Presentation",
+    "desc": "it presentation desc"
+  },
+  {
+    "event": 16,
+    "name": "Prize Giving Ceremony",
+    "desc": "prize desc"
+  }
+]
