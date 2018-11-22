@@ -4,17 +4,17 @@
     "day": 0
   },
   {
-    "time": "10 AM - 6 PM",
+    "time": "10 AM - 5 PM",
     "event": 2,
     "day": 0
   },
   {
-    "time": "10 AM - 6 PM",
+    "time": "10 AM - 5 PM",
     "event": 3,
     "day": 0
   },
   {
-    "time": "10 AM - 6 PM",
+    "time": "10 AM - 5 PM",
     "event": 4,
     "day": 0
   },
@@ -24,18 +24,23 @@
     "day": 0
   },
   {
-    "time": "3 PM - 5.30 PM",
+    "time": "3 PM - 4.30 PM",
     "event": 6,
     "day": 0
   },
   {
-    "time": "3 PM - 5.30 PM",
+    "time": "3 PM - 4.30 PM",
     "event": 7,
     "day": 0
   },
   {
-    "time": "3 PM - 5.30 PM",
-    "event": 8,
+    "time": "3 PM - 4.30 PM",
+    "event": 80,
+    "day": 0
+  },
+  {
+    "time": "4.30 PM - 5.30 PM",
+    "event": 81,
     "day": 0
   },
   {
@@ -59,9 +64,9 @@
     "day": 1
   },
   {
-    "time": "9 AM - 4 PM",
+    "time": "10 AM - 1 PM",
     "event": 9,
-    "day": 1
+    "day": 0
   },
   {
     "time": "9 AM - 4 PM",
@@ -69,15 +74,27 @@
     "day": 1
   },
   {
-    "time": "9 AM - 12 PM",
-    "event": 11,
-    "day": 1
+    "time": "10 AM - 1 PM",
+    "event": 110,
+    "day": 0
+  },
+  {
+    "time": "3 PM - 4.30 PM",
+    "event": 111,
+    "day": 0
   },
   {
     "time": "10 AM - 11 AM",
     "event": 120,
     "day": 1
   },
+  {
+    "time": "2 PM - 4 PM",
+    "event": 121,
+    "day": 1
+  },
+
+
   {
     "time": "12 AM - 12.30 PM",
     "event": 13,
@@ -93,19 +110,21 @@
     "event": 15,
     "day": 1
   },
+
+
   {
-    "time": "2 PM - 4 PM",
-    "event": 121,
+    "time": "10 AM - 1 PM",
+    "event": 160,
     "day": 1
   },
   {
     "time": "2 PM - 4 PM",
-    "event": 11,
+    "event": 161,
     "day": 1
   },
   {
-    "time": "4 PM - 6 PM",
-    "event": 16,
+    "time": "4 PM - 5.30 PM",
+    "event": 17,
     "day": 1
   }
 ]

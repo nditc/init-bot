@@ -40,12 +40,13 @@ def schedule():
     show0(schedule)
     show1(schedule)
 
-@cli.command('eventid', help='Get IDs of all events')
+@cli.command('events', help='Get IDs of all events')
 def eventids():
     events = json.load(open(eventspath))
     ln = len(events)
+    print('Event ID\t', 'Event Name', '\n')
     for i in range(ln):
-        print(events[i]["event"], events[i]["name"])
+        print(events[i]["event"], '\t\t', events[i]["name"])
 
 @cli.command('event', help='Get event description with ID')
 @click.argument('id')

@@ -1,72 +1,82 @@
 [{
     "event": 0,
     "name": "Reporting",
-    "desc": "reporting desc"
+    "desc": "Thank you so much for coming to NDITC-init ^_^ We hope that you will enjoy the fest as much as we enjoyed organizing it."
   },
   {
     "event": 1,
     "name": "Opening Ceremony",
-    "desc": "op ceremony desc"
+    "desc": "The Opening Ceremony will be held on 9.00 AM, 23 November 2018\n"
   },
   {
     "event": 2,
     "name": "Wall Magazine Display",
-    "desc": "wm desc"
+    "desc": "A team of maximum 3 members are allowed to display a wall magazine.\nThere is no specific size for a wall magazine or scrapbook; participants are permitted to display wall magazines of any standard size.\nThe wall magazines should be themed on topics related to IT.\nWall Magazines have to be submitted on 22 November 2018.\n"
   },
   {
     "event": 3,
     "name": "Project Display",
-    "desc": "project desc"
+    "desc": "A team of maximum 3 members are allowed to display a project.\nParticipants are requested to be present at the venue with their projects at least an hour before the reporting time according to the schedule.\nThe projects will be divided into 2 (two) divisions: * Junior (for Class 6-10) * Senior (for Class 11-12)\nA team comprising of students from different institutions is not allowed. One team must comprise of the students of the same institution.\nThe participants must bring all necessary electronic equipment (Multi-plugs, Laptops, Flash Drive etc). The authority will not provide these equipment.\n"
   },
   {
     "event": 4,
     "name": "Robot Showcasing",
-    "desc": "robo shocasing desc"
+    "desc": ""
   },
   {
     "event": 5,
     "name": "Programming Contest",
-    "desc": "programming desc"
+    "desc": "There will be an online preliminary contest in which teams of maximum 2 participants will participate. (Note that your team can consist of only you if you can't find a partner or want to compete alone.)\nContestants from different institutions can pair up to make a team.\n10 teams will be selected. The preliminary contest will be hosted at codeforces(codeforces.com).\nSelected contestants will be invited to our fest to compete on the final rounds.\nContest format will follow the format of IOI.\nSubtasks will be present.\nThe final round will go on for 3 hours.\n"
   },
   {
     "event": 6,
     "name": "Webpage Designing",
-    "desc": "wp desc"
+    "desc": "A maximum of 3 participants are allowed for each web page design.\nThe page must embed a theme related to technology.All necessary electronic equipments (Laptop, Flash Drive etc.) must be brought by the participants. The authority will not provide these equipments.\nParticipants have to submit their designs on 22 November 2018 according to the schedule.\n"
   },
   {
     "event": 7,
     "name": "Digital Poster Design Showcase",
-    "desc": "dig post desc"
+    "desc": "We don't do Photo Exhibition. We do Digital Poster Exhibition. \nHere are the rules-\na) A participant is allowed to submit a maximum of 3 posters.\nb) The poster should have an IT based theme. \nc) Each poster should not exceed the limit of 15 words. \ne) Participants have to email the soft copy of their posters along with their information (Name, Institution, Topic and a Short description of the Poster) and three copies of each poster in JPEG, PNG and PDF format.\nf) Please send them within 21 November, 2018.f) There will be a primary selection. \ng) The selected posters will be exhibited throughout our event."
   },
   {
-    "event": 8,
-    "name": "Olympiads",
-    "desc": "oly desc"
+    "event": 80,
+    "name": "Informatics Olympiad",
+    "desc": "This version of Olympiad is for the true geeks out there. Big shout out to you all. \nHere are the rules-\na) Participants must report at least 20 minutes before the scheduled time. \nb) There will be two levels for Informatics Olympiad- *Junior (Class 9-10), *Senior (Class 11-12).\nc) The questions are probably going to be really hard."
+  },
+  {
+    "event": 81,
+    "name": "IT Olympiad",
+    "desc": "The easier version. Here are the rules-\na) Participants must report at least 20 minutes before the scheduled time. \nb) There won't be any level for the IT Olympiad.\nc) The question are probably going to be really easy"
   },
   {
     "event": 9,
     "name": "Ideacon",
-    "desc": "ideacon desc"
+    "desc": "This event is for those who have ideas for projects, but can’t build a prototype.\nYou will get a stage to present your ideas. You will get 10 minutes to present your idea.\nThe presentation can be done either in English or Bengali. You can bring any type of illustration or demonstration you need to help you present your ideas.\n"
   },
   {
     "event": 10,
     "name": "Hackathon",
-    "desc": "hacka desc"
+    "desc": "The solutions have to be genuine and not replicated from anywhere else.\nA team may consist of maximum 5 members and all of the members will have to be present during the hackathon.\nA team will work on only one idea or problem statement.\nTeam members can come from different schools and colleges.\nParticipants will have to bring their own laptop and other necessary equipment (internet access will be provided via WiFi).\n"
   },
   {
-    "event": 11,
-    "name": "Line Follower Robot Competition",
-    "desc": "lfr desc, shanta doesn't like lfrs"
+    "event": 110,
+    "name": "Line Follower Robot Competition - Preli",
+    "desc": "You get a Raspberry Pi if you win. No, not the food one. That's all we can say for now. \nHere are the rules -\na) Robot must be a ground wheeled vehicle; \nlength must be maximum of 20 cm; \nwidth must be maximum of 20 cm; \nweight must be maximum of 4kg; \npower must be maximum of 24 volts on-board power supply.\nb) Metal wheeled robot are not acceptable, each team must use rubberized wheels.\nc) Each team (maximum of 3 members) must bring its own power supply and backups for robot, no additional equipment/parts will be supplied.\nd) No wireless communication or external data feed to robot will be allowed.\n\nRegistration Fee of BDT 300 Per Team is applicable. You will have to pay on the event day."
+  },
+  {
+    "event": 111,
+    "name": "Line Follower Robot Competition - Final",
+    "desc": "You get a Raspberry Pi if you win. No, not the food one. That's all we can say for now. \nHere are the rules -\na) Robot must be a ground wheeled vehicle; \nlength must be maximum of 20 cm; \nwidth must be maximum of 20 cm; \nweight must be maximum of 4kg; \npower must be maximum of 24 volts on-board power supply.\nb) Metal wheeled robot are not acceptable, each team must use rubberized wheels.\nc) Each team (maximum of 3 members) must bring its own power supply and backups for robot, no additional equipment/parts will be supplied.\nd) No wireless communication or external data feed to robot will be allowed.\n\nRegistration Fee of BDT 300 Per Team is applicable. You will have to pay on the event day."
   },
   {
     "event": 120,
     "name": "Code Debugging Preliminary",
-    "desc": "cbp desc"
+    "desc": "Participants will be given one C++, one Python and one JavaScript code. These codes may contain multiple logical problems.\nParticipants will be given a set of objectives and each objective may have different marks. There will be no partial points.\nThe participant will have 2 hours to debug the codes.\nInternet access will not be allowed in the event.\nThe provided computers will have gdb and Firefox pre-installed in case any participant wants to use that.\n"
   },
   {
     "event": 121,
     "name": "Code Debugging Final",
-    "desc": "cbf desc"
+    "desc": "Participants will be given one C++, one Python and one JavaScript code. These codes may contain multiple logical problems.\nParticipants will be given a set of objectives and each objective may have different marks. There will be no partial points.\nThe participant will have 2 hours to debug the codes.\nInternet access will not be allowed in the event.\nThe provided computers will have gdb and Firefox pre-installed in case any participant wants to use that.\n"
   },
   {
     "event": 13,
@@ -76,16 +86,26 @@
   {
     "event": 14,
     "name": "Lunch Break",
-    "desc": "lunch desc"
+    "desc": "Lunch and snacks will be provided for the participants who will stay for whole day or long events.\n"
   },
   {
     "event": 15,
     "name": "IT Based Presentation",
-    "desc": "it presentation desc"
+    "desc": "Each team can contain a maximum of 2 members.\nThe presentations should be on IT-based topics.\nParticipants will get a maximum of 5 minutes to describe their presentation.\nAll necessary electronic equipments (Laptop, Multi-plugs, and Flash Drive etc.) are to be brought by the participants. The authority will not provide these equipments.\nA participant will be given another chance and 10 minutes to recover in case of sudden electronic failure or any kind of unintentional incident.\nThe slides must not contain any audio.\n"
   },
   {
-    "event": 16,
+    "event": 160,
+    "name": "Robo Soccer - Preli",
+    "desc": ""
+  },
+  {
+    "event": 161,
+    "name": "Robo Soccer - Final",
+    "desc": ""
+  },
+  {
+    "event": 17,
     "name": "Prize Giving Ceremony",
-    "desc": "prize desc"
+    "desc": "The prize giving ceremony will be held on the last day of the event (24 November, 2018).\n"
   }
 ]
